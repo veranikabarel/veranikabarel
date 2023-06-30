@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end developer experienced in creating beautiful and intuitive web applications using React library. I'm passionate about building user-friendly interfaces that delight users and make their experience with an application seamless and enjoyable.
-
-What is more I'm always eager to learn new technologies and stay up-to-date with the latest trends and best practices in front-end development.
-
-In my previous roles, I have collaborated closely with UX designers and back-end developers to create responsive and scalable web applications. I am a strong communicator and team player, and I thrive in collaborative environments where I can learn from my peers and contribute to the success of the project.
-
-Outside of work, I enjoy experimenting with new technologies, attending tech meetups, and contributing to open-source projects. I'm excited to bring my skills to your team and help you create amazing user experiences for your users.
-
-
+I'm a front-end developer experienced in creating beautiful and user-friendly web applications, utilizing such technologies as React, Next.js, and Astro framework. I am a passionate learner, strong communicator, and team player. I enjoy experimenting with new technologies, attending tech meetups, and contributing to open-source projects.
 
 #### Open source contributions
 
@@ -19,6 +11,10 @@ Outside of work, I enjoy experimenting with new technologies, attending tech mee
 - [Will AI with tools like ChatGPT replace software developers?](https://espeo.eu/blog/ai-chatgpt-software-development/)
 
 #### Stats 
+
+[![veranikabarel's GitHub stats](https://github-readme-stats.vercel.app/api?username=veranikabarel)](https://github.com/veranikabarel/github-readme-stats&show_icons=true\&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veranikabarel)](https://github.com/veranikabarel/github-readme-stats&layout=compact)
 
 <!--
 **veranikabarel/veranikabarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
