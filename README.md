@@ -2,8 +2,6 @@
 
 I'm a front-end developer experienced in creating beautiful and user-friendly web applications, utilizing such technologies as React, Next.js, and Astro framework. I am a passionate learner, strong communicator, and team player. I enjoy experimenting with new technologies, attending tech meetups, and contributing to open-source projects.
 
-**CURRENTLY OPEN TO WORK** 🔎
-
 [![N|Solid](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veranika-kasparevych/)
 
 #### Open source contributions
