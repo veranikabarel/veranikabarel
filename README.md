@@ -11,6 +11,7 @@ I'm a front-end developer experienced in creating beautiful and user-friendly we
 #### Tech articles 
 
 - [Will AI with tools like ChatGPT replace software developers?](https://espeo.eu/blog/ai-chatgpt-software-development/)
+- [Dev.to articles](https://dev.to/veranikabarel)
 
 #### Stats
 
