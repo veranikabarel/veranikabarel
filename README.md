@@ -6,7 +6,8 @@ I'm a front-end developer experienced in creating beautiful and user-friendly we
 
 #### Open source contributions
 
-- [Astro theme](https://github.com/veranikabarel/astro-portfolio) 
+- [Astro theme](https://github.com/veranikabarel/astro-portfolio)
+- [NPM packages](https://www.npmjs.com/settings/veranikabarel/packages) 
 
 #### Tech articles 
 
